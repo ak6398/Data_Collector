@@ -1,6 +1,6 @@
 
-# Home page
-![Logo](screenshots/home.png)
+# Main Screen page
+![Logo](screenshots/main_window.jpg)
 
 
 datalogger/
