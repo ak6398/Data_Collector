@@ -1,3 +1,8 @@
+
+# Home page
+![Logo](screenshots/home.png)
+
+
 datalogger/
 │
 ├── configuration/      # Configuration files and settings
