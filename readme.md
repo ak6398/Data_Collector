@@ -2,6 +2,19 @@
 # Main Screen page
 ![Logo](screenshots/main_window.jpg)
 
+# Select port window
+![Logo](screenshots/slect_port.jpg)
+
+# Select project window
+![Logo](screenshots/select_project.jpg)
+
+# Select show_data window
+![Logo](screenshots/show_data.jpg)
+
+# Select show_graph window
+![Logo](screenshots/show_graph.jpg)
+
+
 
 datalogger/
 │
